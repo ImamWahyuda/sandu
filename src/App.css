@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-blue {
+  background-color: #4398AF;
+  justify-content: center;
+  flex: 1;
+  
+
+}
+
